@@ -7,18 +7,20 @@ Feed to a group of nerds
 
 Each nerd makes one change to the design at a time.
 
-These can be:
-switch type
-peripherals (screen, haptics, audio)
-controller
-edge cuts
-silkscreen
-case
-firmware features
+These can be: <br />
+switch type <br />
+peripherals (screen, haptics, audio) <br />
+controller <br />
+edge cuts <br />
+silkscreen <br />
+case <br />
+firmware features <br />
 
 Each person gets one modification at a time
 If a modification falls outside your area of expertise but still have an idea, you can nominate/delegate
 
 Commit your changes back to the forked "canvas" repos- this is why all members are owners.
+
+One person gets one modification, commits, then passes on to the next person in turn.
 
 Have fun!
